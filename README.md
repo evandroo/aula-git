@@ -36,4 +36,5 @@ https://git-scm.com/download
 
 - [6] Você quer colocar seu projeto na nuvem.
 
-   -
+   - Adicionando um repositório remoto: git remote add origin <link do repositório no git>
+   - Colocando o repositório local no git: Quando for primeiro push: git push -u origin master. Depois usasse só: git push
